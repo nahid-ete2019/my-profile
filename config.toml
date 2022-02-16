@@ -1,5 +1,5 @@
-baseURL = "https://benedictxneo.rbind.io/"
-title = "Benedict Neo"
+baseURL = "https://mrnahid.xyz//"
+title = "Md. Nahid Hasan"
 
 theme = "hugo-coder"
 
@@ -15,13 +15,13 @@ pygmentsCodeFencesGuessSyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "Benedict Neo"
-    description = "Ben's personal website and blog"
+    author = "Md. Nahid Hasan"
+    description = "Nahid's personal website and blog"
     keywords = "blog,developer,personal"
-    info = "Undergradute Statistics student at Iowa State | Python and R"
+    info = "DevOps Engineer"
     avatarURL = "images/avatar.jpg"
     #gravatar = "john.doe@example.com"
-    footerContent = "Hi!"
+    footerContent = "Hi There!"
 
     dateFormat = "January 2, 2006"
 
