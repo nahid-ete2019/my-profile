@@ -1,8 +1,8 @@
 name = "Coder"
 license = "MIT"
-licenselink = "https://github.com/luizdepra/hugo-coder/blob/master/LICENSE.md"
+licenselink = "https://nahid-ete2019.github.io/my-profile/blob/master/LICENSE.md"
 description = "A simple and clean blog theme for Hugo"
-homepage = "https://github.com/luizdepra/hugo-coder/"
+homepage = "https://nahid-ete2019.github.io/my-profile/"
 tags = [
   "blog",
   "minimal",
@@ -24,4 +24,4 @@ min_version = "0.79.0"
 
 [author]
 name = "Luiz F. A. de Prá"
-homepage = "https://luizdepra.com"
+homepage = "https://mrnahid.xyz"
