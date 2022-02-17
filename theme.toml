@@ -1,0 +1,27 @@
+name = "Coder"
+license = "MIT"
+licenselink = "https://nahid-ete2019.github.io/my-profile/blob/master/LICENSE.md"
+description = "A simple and clean blog theme for Hugo"
+homepage = "https://nahid-ete2019.github.io/my-profile/"
+tags = [
+  "blog",
+  "minimal",
+  "minimalist",
+  "responsive",
+  "simple",
+  "clean",
+  "personal"
+]
+features = [
+  "analytics",
+  "favicon",
+  "multilingual",
+  "pagination",
+  "single-column",
+  "syntax-highlighting"
+]
+min_version = "0.79.0"
+
+[author]
+name = "Luiz F. A. de Prá"
+homepage = "https://mrnahid.xyz"
