@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/nahid-ete2019/my-site.git
+	branch = gh-hogo
